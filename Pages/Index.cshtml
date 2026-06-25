@@ -1,0 +1,37 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="vh-100">
+
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+
+    @* @if (HttpContext.User.Identity!.IsAuthenticated) *@
+    @* { *@
+    @*     <div class="row"> *@
+    @*         <h4>User Cliams</h4> *@
+    @*         @foreach(var claim in User.Claims.Select(c => new {c.Type, c.Value }).ToList()) *@
+    @*         { *@
+    @*             <p>@claim.Type : @claim.Value</p> *@
+    @*         } *@
+
+    @*         <h4>User Roles</h4> *@
+    @*         @foreach (var claim in User.FindAll(ClaimTypes.Role).ToList()) *@
+    @*         { *@
+    @*             <p>@claim.Type : @claim.Value</p> *@
+    @*         } *@
+    @*     </div> *@
+    @* } *@
+    @* else *@
+    @* { *@
+    @*     <a asp-page="/login">Sign In</a> *@
+    @* } *@
+</div>

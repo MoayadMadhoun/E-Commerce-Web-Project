@@ -1,0 +1,39 @@
+﻿@page "{id}"
+@model MyStore.Pages.Categories.DeleteModel
+@{
+	ViewData["Title"] = "Delete Category";
+	Layout = "_NLayout";
+
+}
+
+<h2 class="text-danger mb-3"><i class="bi bi-trash3-fill text-danger"></i> Delete Category</h2>
+
+<div class=" alert alert-warning">
+	Are you sure you want to delete this category?
+</div>
+
+<div class="card mb-3 " style="max-width: 500px;">
+	<div class="card-body">
+		<img src="@Model.category.ImageUrl" class="img-fluid rounded mb-3"/>
+		<h5 class="card-title">@Model.category.Name</h5>
+		<p class="card-text">
+			Name: <strong>@Html.Raw(Model.category.Name)</strong> <br />
+		</p>
+	</div>
+</div>
+
+<form method="post">
+
+	<button type="submit" class="btn btn-secondary">
+		<i class="bi bi-trach3-fill"></i> Yes, Delete
+	</button>
+
+	<a asp-page="Index" class="btn btn-secondary">
+		Cancel
+	</a>
+</form>
+
+
+
+
+

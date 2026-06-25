@@ -1,0 +1,122 @@
+﻿@page
+@model MyStore.Pages.Users.IndexModel
+
+@{
+    ViewData["Title"] = "Users";
+}
+
+<h2>Users</h2>
+
+<form method="get">
+    <div class="row g-3 mb-3">
+        <div class="col-md-4">
+            <input class="form-control"
+                   asp-for="SearchTerm"
+                   placeholder="Search by email..." />
+        </div>
+
+        <div class="col-md-3">
+            <select class="form-select"
+                    asp-for="PageSize"
+                    onchange="this.form.submit()">
+                <option value="5">5</option>
+                <option value="10">10</option>
+                <option value="3">3</option>
+            </select>
+        </div>
+
+        <div class="col-md-3">
+            <button class="btn btn-primary">Search</button>
+        </div>
+    </div>
+</form>
+
+<form method="post">
+
+    <div class="form-check mb-2 ms-4">
+        <input type="checkbox" class="form-check-input" id="selectAll">
+        <label>Select All</label>
+    </div>
+
+    <table class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Address</th>
+                <th>Select</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var user in Model.Users)
+            {
+                <tr>
+                    <td>
+                        <img src="/@user.ProfileImageUrl"
+                             style="height:70px;width:70px;border-radius:50%;" />
+                    </td>
+                    <td>@user.FullName</td>
+                    <td>@user.Email</td>
+                    <td>@user.PhoneNumber</td>
+                    <td>@user.Address</td>
+                    <td>
+                        <input type="checkbox"
+                               name="SelectedUserIds"
+                               value="@user.Id"
+                               class="user-checkbox" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Send</button>
+</form>
+
+<nav class="mt-3 mx-auto">
+    <ul class="pagination">
+
+        @for (int i = 1; i <= Model.TotalPages; i++)
+        {
+            <li class="page-item @(i == Model.PageIndex ? "active" : "")">
+                <a class="page-link"
+                   asp-page="./Index"
+                   asp-route-PageIndex="@i"
+                   asp-route-SearchTerm="@Model.SearchTerm"
+                   asp-route-PageSize="@Model.PageSize">
+                    @i
+                </a>
+            </li>
+        }
+
+    </ul>
+</nav>
+
+<script>
+    const selectAll = document.getElementById("selectAll");
+    const checkboxes = document.querySelectorAll(".user-checkbox");
+
+    selectAll.addEventListener("change", function () {
+        checkboxes.forEach(cb => cb.checked = this.checked);
+    });
+
+    checkboxes.forEach(cb => {
+        cb.addEventListener("change", function () {
+            selectAll.checked =
+                Array.from(checkboxes).every(c => c.checked);
+        });
+    });
+</script>
+
+
+
+
+
+
+
+
+
+

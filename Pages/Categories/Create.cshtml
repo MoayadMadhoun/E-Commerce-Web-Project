@@ -1,0 +1,36 @@
+﻿@page
+@model MyStore.Pages.Categories.CreateModel
+@{
+	ViewData["Title"] = "Create Category";
+	Layout = "_NLayout";
+
+}
+
+
+<h2><i class="bi bi-file-earmark-plus-fill me-2 text-success"></i> Create Category </h2>
+
+<form method="post" enctype="multipart/form-data">
+	<div class="mb-3">
+		<label asp-for="Category.Name"></label>
+		<input asp-for="Category.Name" class="form-control" />
+		<span asp-validation-for="Category.Name" class="text-danger"></span>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="catImage"></label>
+		<input asp-for="catImage" class="form-control" accept="@MyStore.Services.UploudImageService.accept" required />
+		<span asp-validation-for="catImage" class="text-danger"></span>
+	</div>
+
+	<div>
+		<button class="btn btn-success px-5"><i class="bi bi-floppy2-fill me-2"></i>Save</button>
+		<a asp-page="Index" class="btn btn-secondary px-5"><i class="bi bi-house-door-fill me-2"></i>Cancel</a>
+	</div>
+
+
+</form>
+
+@section Scripts {
+	<partial name="_ValidationScriptsPartial" />
+}
+

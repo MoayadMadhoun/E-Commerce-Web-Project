@@ -1,0 +1,177 @@
+﻿@page 
+@using Microsoft.AspNetCore.Html
+@model MyStore.Pages.Products.IndexModel
+@{
+	ViewData["Title"] = "Products - Lists";
+}
+
+@functions{
+	public IHtmlContent SortIcon(string column , string currentSort)
+	{
+		if (currentSort == column)
+			return new HtmlString("<span><i class=\"bi bi-caret-up-fill\"></i></span>");
+
+		if (currentSort == column+"_desc")
+			return new HtmlString("<span><i class=\"bi bi-caret-down-fill\"></i></span>");
+
+		return new HtmlString("<span><i class=\"bi bi-arrow-down-up\"></i></span>");
+	}
+}
+
+<div class="row mb-3">
+	<h2 class="col col-6">Products</h2>
+	<a asp-page="Create" class="btn btn-primary text-white col-2 ms-auto py-2">
+		<i class="bi bi-plus-circle"></i> Add Product
+	</a>
+</div>
+
+<form method="get">
+	<div class="row g-3 mb-3">
+		<div class="col-md-4">
+			<input class="form-control" asp-for="@Model.SearchTerm"
+			placeholder="Search product..."/>
+		</div>
+		<div class="col-md-3" >
+			<select class="form-select" asp-for="@Model.CategoryId" asp-items="@Model.Categories">
+				<option value="value">text</option>
+			</select>
+		</div>
+		<div class="col-md-3">
+			<button class="btn btn-primary">Search</button>
+		</div>
+	</div>
+
+	<div class="row align-items-center pe-2">
+		<div class="col-12 col-md-6 m-0"> Results Count: &nbsp; @Model.Products.QueryCount</div>
+		<div class="col-12 col-md-6 m-0 mb-1 row g-2 justify-content-end align-items-center">
+			<span class="col-auto">Show</span>
+			<div class="col-md-3">
+				<select class="form-select" onchange="this.form.submit()" 
+				 asp-for="@Model.PageSize"
+				>
+					<option value="5">5</option>
+					<option value="10">10</option>
+					<option value="3">3</option>
+				</select>
+			</div>
+
+			<span class="col-3">Results</span>
+		</div>
+	</div>
+</form>
+
+
+<table class="table table-striped">
+	<thead class="table-dark">
+		<tr>
+			<th>Images</th>
+			<th>
+				<a  asp-route-CategoryId="@Model.CategoryId"
+				    asp-route-SearchTerm="@Model.SearchTerm"
+				    asp-route-PageSize="@Model.PageSize"
+					asp-route-SortField="Name"
+					asp-route-SortOrder="@(Model.SortOrder =="Name" ? "Name_desc" : "Name")"
+					class="text-white text-decoration-none">Name @SortIcon("Name" ,Model.SortOrder)
+				</a>
+			</th>
+			<th>Publisher</th>
+			<th>
+				<a 
+				   asp-route-CategoryId="@Model.CategoryId"
+				   asp-route-SearchTerm="@Model.SearchTerm"
+				   asp-route-PageSize="@Model.PageSize"
+				   asp-route-SortField="Price"
+				   asp-route-SortOrder="@(Model.SortOrder =="Price" ? "Price_desc" : "Price")"
+				   class="text-white text-decoration-none">
+					Price @SortIcon("Price", Model.SortOrder)
+				</a>
+			</th>
+			<th>Stock</th>
+			<th>Actions</th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach(var p in Model.Products)
+		{
+			<tr>
+				<td valign="middle">
+					@* <img src="/images/products/default.jpg" width="70" /> *@
+					@* @p.ImageUrl *@
+					<img src="@p.ImageUrl" width="100" class="" style="height: 80px ; width: 80px"/> 
+				</td>
+				<td valign="middle">@p.Name</td>
+				<td>@(@p.Publiser != null ? @p.Publiser : "Unknown")</td>
+
+				<td valign="middle">
+					@Html.Raw(@p.PriceStr)</td>
+				<td valign="middle"> @p.StockQuantity</td>
+				<td valign="middle">
+					@if (User!.IsInRole("Admin"))
+					{
+						<a asp-page="Edit" asp-route-id="@p.ProductId" class="btn btn-sm btn-warning"><i class="bi bi-pen"></i></a>
+						<a asp-page="Delete" asp-route-id="@p.ProductId" class="btn btn-sm btn-danger"><i class="bi bi-trash3-fill"></i></a>
+					}
+					
+					<a asp-page="Images" asp-route-productId="@p.ProductId" class="btn btn-sm btn-info"><i class="bi bi-images"></i></a>
+				</td>
+			</tr>
+		}
+
+	</tbody>
+</table>
+
+
+
+@* Nav Pageing *@
+
+<div class="row mt-3">
+	<nav>
+		<ul class="pagination justify-content-center flex-wrap">
+
+			@if(Model.Products.HasPreviousPage)
+			{
+				<li class="page-item">
+					<a class="page-link"
+					   asp-route-CategoryId="@Model.CategoryId"
+					   asp-route-SearchTerm="@Model.SearchTerm"
+					   asp-route-PageSize="@Model.PageSize"
+					   asp-route-PageIndex="@(Model.PageIndex-1)">Previous</a>
+				</li>
+			}
+
+			@for(int i = 1; i<= Model.Products.TotalPages; i++)
+			{
+				<li class="page-item @(i == Model.Products.PageIndex ? "active" : "")">
+					<a class="page-link"
+					   asp-route-CategoryId="@Model.CategoryId"
+					   asp-route-SearchTerm="@Model.SearchTerm"
+					   asp-route-PageSize="@Model.PageSize"
+					   asp-route-PageIndex="@i"> @i </a>
+				</li>
+			}
+				
+
+			@if (Model.Products.HasNextPage)
+			{
+				<li class="page-item">
+					<a class="page-link"
+					   asp-route-SearchTerm="@Model.SearchTerm"
+					   asp-route-CategoryId="@Model.CategoryId"
+					   asp-route-PageSize="@Model.PageSize"
+					   asp-route-PageIndex="@(Model.PageIndex+1)">Next</a>
+				</li>
+			}
+		</ul>
+	</nav>
+</div>
+
+
+
+
+
+
+
+
+
+
+

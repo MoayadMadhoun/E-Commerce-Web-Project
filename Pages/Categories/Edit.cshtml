@@ -1,0 +1,61 @@
+﻿@page "{id}"
+@model MyStore.Pages.Categories.EditModel
+@{
+	ViewData["Title"] = "Edit Category";
+    Layout = "_NLayout";
+}
+
+<h2 class="mb-4"><i class="bi bi-pen-fill text-success"></i> Edit Category</h2>
+
+
+<form method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Category.CategoryId" />
+    <input type="hidden" asp-for="Category.ImageUrl" />
+
+    <div class="row">
+        <div class="col col-md-6">
+
+            <div class="mb-3">
+                <label asp-for="Category.Name"></label>
+                <input asp-for="Category.Name" class="form-control" />
+                <span asp-validation-for="Category.Name" class="text-danger"></span>
+            </div>
+
+            <!-- MAIN IMAGE -->
+            <div class="mb-3">
+                <label class="form-label">Main Image</label><br />
+                <input type="file" asp-for="catImage" class="form-control" accept="@MyStore.Services.UploudImageService.accept" />
+                <span asp-validation-for="catImage" class="text-danger"></span>
+            </div>
+
+        </div>
+
+        <div class="col col-md-6">
+            <label class="form-label">Main Image</label><br />
+            <img src="@Model.Category.ImageUrl"
+                 class="img-thumbnail mb-2"
+                 width="200" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        <i class="bi bi-floppy2-fill me-2"></i>
+        Save Changes
+    </button>
+
+    @* <a asp-page="Images" *@
+    @*    asp-route-id="@Model.Category.CategoryId" *@
+    @*    class="btn btn-warning"> *@
+    @*     <i class="bi bi-images"></i> *@
+    @* </a> *@
+
+    <a asp-page="Index" class="btn btn-secondary">
+        <i class="bi bi-house-door-fill me-2"></i>
+        Cancel
+    </a>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

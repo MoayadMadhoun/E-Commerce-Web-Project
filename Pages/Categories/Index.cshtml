@@ -1,0 +1,63 @@
+﻿@page
+@model MyStore.Pages.Categories.IndexModel
+@{
+	ViewData["Title"] = "Category - View";
+}
+
+<div class="row mb-3">
+	<h2 class="col col-6">Categories</h2>
+	<a asp-page="Create" class="btn btn-primary text-white col-2 ms-auto py-2">
+		<i class="bi bi-plus-circle"></i> Add Category
+	</a>
+</div>
+
+<div class="row g-3">
+    @foreach (var cat in Model.categoriesList)
+    {
+        <div class="card mx-1 shadow-lg" style="width: 18rem;">
+              <img src="@cat.ImageUrl" class="card-img-top" alt="...">
+              @* <div class="card-body"> *@
+                <p class="card-text mt-4"><strong>Name: </strong> @cat.Name</p>
+                <div class="mb-2">
+                    <a asp-page="Edit" asp-route-id="@cat.CategoryId" class="btn btn-sm btn-warning"><i class="bi bi-pen"></i></a>
+                    <a asp-page="Delete" asp-route-id="@cat.CategoryId" class="btn btn-sm btn-danger"><i class="bi bi-trash3-fill"></i></a>
+                    <a asp-page="CategoryProducts" asp-route-catId="@cat.CategoryId" asp-route-catName="@cat.Name" class="btn btn-sm btn-info"><i class="bi bi-images"></i></a>
+                </div>
+              @* </div> *@
+        </div>
+
+        @* <div class="category-card shadow-sm border border-1  border-light col-12 col-lg-3 col-md-6 rounded-3 d-inline-block mb-2 mx-1" style="max-width: 250px"> *@
+        @*     <img src="@cat.ImageUrl" width="150" height="150" class="d-block mx-auto pt-2"> *@
+        @*     <div class="shadow-sm border-0 mt-5 bg-opacity-10 bg-secondary d-block py-2 ps-1 justify-content-between"> *@
+        @*        <div class="mb-2"><strong>Name: </strong> @cat.Name</div> *@
+        @*        <div> *@
+        @*             <a asp-page="Edit" asp-route-id="@cat.CategoryId" class="btn btn-sm btn-warning"><i class="bi bi-pen"></i></a> *@
+        @*             <a asp-page="Delete" asp-route-id="@cat.CategoryId" class="btn btn-sm btn-danger"><i class="bi bi-trash3-fill"></i></a> *@
+        @*             <a asp-page="CategoryProducts" asp-route-catId="@cat.CategoryId" asp-route-catName="@cat.Name" class="btn btn-sm btn-info"><i class="bi bi-images"></i></a> *@
+        @*        </div> *@
+        @*     </div> *@
+        @* </div> *@
+    }
+</div>
+
+<style>
+    /* Animation */
+    @@keyframes slideFade {
+        0% {
+            opacity: 0;
+            transform: translateY(20px);
+        }
+
+        100% {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    .category-card {
+        transform: translateY(20px);
+        animation: slideFade 1.8s ease-out forwards;
+    }
+
+</style>
+

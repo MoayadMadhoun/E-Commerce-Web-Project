@@ -1,0 +1,85 @@
+﻿@page "{id}"
+@model MyStore.Pages.Products.EditModel
+@{
+    ViewData["Title"] = "Products - Edit";
+    Layout = "_NLayout";
+
+}
+
+<h2 class="mb-4"><i class="bi bi-pen-fill text-success"></i> Edit Product</h2>
+
+
+<form method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Product.ProductId"/>
+    <input type="hidden" asp-for="Product.ImageUrl" />
+
+    <div class="row">
+        <div class="col col-md-6">
+
+            <div class="mb-3">
+                <label asp-for="Product.Name"></label>
+                <input asp-for="Product.Name" class="form-control" />
+                <span asp-validation-for="Product.Name" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Product.Price"></label>
+                <input asp-for="Product.Price" class="form-control" />
+                <span asp-validation-for="Product.Price" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label asp-for="Product.StockQuantity"></label>
+                <input asp-for="Product.StockQuantity" class="form-control" />
+                <span asp-validation-for="Product.StockQuantity" class="text-danger"></span>
+            </div>
+
+            <div class="mb-3">
+                <label>Category</label>
+                <select asp-for="Product.CategoryId"
+                        asp-items="Model.Categories"
+                        class="form-select">
+                    <option value="">Select One</option>
+                </select>
+                <span asp-validation-for="Product.CategoryId" class="text-danger"></span>
+            </div>
+
+            <!-- MAIN IMAGE -->
+            <div class="mb-3">
+                <label class="form-label">Main Image</label><br />
+                <input type="file" asp-for="Product.Image" class="form-control" accept="@MyStore.Services.UploudImageService.accept" />
+                <span asp-validation-for="Product.Image" class="text-danger"></span>
+            </div>
+
+        </div>
+
+        <div class="col col-md-6">
+            <label class="form-label">Main Image</label><br />
+            <img src="/@Model.Product.ImageUrl"
+                 class="img-thumbnail mb-2"
+                 width="200" />
+        </div>
+    </div>
+
+    <button type="submit" class="btn btn-success">
+        <i class="bi bi-floppy2-fill me-2"></i>
+        Save Changes
+    </button>
+
+    @* <a asp-page="Images"  *@
+    @*    asp-route-id="@Model.Product.ProductId"  *@
+    @*    class="btn btn-warning"> *@
+    @*      <i class="bi bi-images"></i> *@
+    @*  </a> *@
+
+    <a asp-page="Index" class="btn btn-secondary">
+        <i class="bi bi-house-door-fill me-2"></i>
+        Cancel
+    </a>
+</form>
+
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+

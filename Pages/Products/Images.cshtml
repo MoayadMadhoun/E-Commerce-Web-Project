@@ -1,0 +1,56 @@
+﻿@page "{productId}"
+@model MyStore.Pages.Products.ImagesModel
+@{
+	ViewData["Title"] = "Products - Extra Images";
+	Layout = "_NLayout";
+
+}
+
+<h2 class="mb-4 "><i class="bi bi-pen-fill text-success"></i>Edit Product</h2>
+<div class="row mt-4">
+	<div class="bg-light d-flex mb-3">
+		<img src="/@Model.Product.ImageUrl" width="300"/>
+		<h4 class="align-self-center ms-3">@Model.Product.Name</h4>
+
+	</div>
+
+	<div class="col-12 col-md-6">
+		<form method="post"enctype="multipart/form-data">
+			<div class="mb-3">
+				<label class="form-label">Extra Images</label>
+				<input asp-for="ExtraImages" class="form-control mt-2" accept="@MyStore.Services.UploudImageService.accept" multiple/>
+				<span asp-validation-for="ExtraImages" class="text-danger"></span>
+			</div>
+			<button type="submit" class="btn btn-primary">
+				<i class="bi bi-cloud-arrow-up-fill me-2"></i> Upload
+			</button>
+			<a asp-page="Index" class="btn btn-secondary">
+				<i class="bi bi-house-door-fill me-2"></i>
+				Back to list
+			</a>
+		</form>
+
+	</div>
+	<div class="col-12 col-md-6">
+		<div class="row row-cols-2 row-cols-md-4 g-4">
+			@foreach(var img in Model.Images)
+			{
+				<div class=" col">
+					<div class="card h-100">
+						<img src="/@img.ImageUrl" class="card-img-top" alt="..."/>
+						<div class="card-body"></div>
+						<div class="card-footer d-flex">
+							<form method="post" asp-page-handler="Delete">
+								<input type="hidden" name="imageId" value="@img.ProductImageId" />
+								<button class="btn btn-sm btn-danger w-100">
+									<i class="bi bi-trash3-fill me-2"></i> Delete
+								</button>
+							</form>
+						</div>
+
+					</div>
+				</div>
+			}
+		</div>
+	</div>
+</div>

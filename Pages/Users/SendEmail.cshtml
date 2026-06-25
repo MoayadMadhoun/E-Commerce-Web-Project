@@ -1,0 +1,35 @@
+﻿@page
+@model MyStore.Pages.Users.SendEmailModel
+@{
+    Layout = "_NLayout";
+
+}
+
+<div class="row align-self-center bg-light rounded-5 shadow-lg my-5">
+    <form method="post" class="py-2">
+
+        <h5 class="text-center pt-2">Send An Email To Selected Users</h5>
+
+        @for (int i = 0; i < Model.SelectedUserIds.Count; i++)
+        {
+            <input type="hidden" asp-for="SelectedUserIds[i]" />
+        }
+
+        <div class="py-2">
+            <label class="form-label" asp-for="EmailSubject"></label>
+            <input type="text" class="form-control" asp-for="EmailSubject" />
+            <span asp-validation-for="EmailSubject" class="text-danger"></span>
+        </div>
+
+        <div class="py-2">
+            <label class="form-label" asp-for="EmailBody"></label>
+            <textarea class="form-control" asp-for="EmailBody"></textarea>
+            <span asp-validation-for="EmailBody" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-dark d-block mx-auto my-2 px-3">
+            Send
+        </button>
+
+    </form>
+</div>

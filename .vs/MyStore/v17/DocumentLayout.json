@@ -1,0 +1,1652 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpasswordconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\shared\\_nlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\shared\\_nlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:services\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\users\\sendemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\users\\sendemail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\users\\sendemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\users\\sendemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\confirmemail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\modelsview\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:modelsview\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\resendemailconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\email.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\changepassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpasswordconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_managenav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\Telegram Desktop\\SendEmail.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\shared\\_crudlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\shared\\_crudlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\options\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:options\\smtpoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\services\\uploudimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:services\\uploudimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\wwwroot\\assets\\css\\vertical-light-layout\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:wwwroot\\assets\\css\\vertical-light-layout\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\wwwroot\\assets\\css\\maps\\vertical-light-layout\\style.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:wwwroot\\assets\\css\\maps\\vertical-light-layout\\style.css.map||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\services\\iuploudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:services\\iuploudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\managenavpages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\personaldata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:areas\\identity\\pages\\account\\manage\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:models\\productimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\data\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:data\\configuration\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\data\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:data\\configuration\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260421173917_newmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260421173917_newmig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260421171829_changeTableName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260421171829_changeTableName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Downloads\\studiova-bootstrap-template-v1\\src\\html\\sign-in.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\extention\\querysortextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:extention\\querysortextention.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\extention\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:extention\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\data\\sql\\products (2).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:data\\sql\\products (2).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\mystore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:mystore.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\categoryproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\categoryproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\images.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\categoryproducts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\categoryproducts.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\categories\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\pages\\products\\images.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:pages\\products\\images.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260205213432_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260205213432_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260205213311_e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260205213311_e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129173046_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260129173046_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129172622_update-error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260129172622_update-error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129165239_edit-cat-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260129165239_edit-cat-table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260422053029_addproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260422053029_addproductsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260422052907_newupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260422052907_newupd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260422122154_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260422122154_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260422124952_neww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260422124952_neww.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260422124023_adddefalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260422124023_adddefalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260423131438_addprofilephotofild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260423131438_addprofilephotofild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260427183741_addpublisherfieldtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260427183741_addpublisherfieldtviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|d:\\moayad al-madhoun\\gtc\\secound year\\fs\\web development\\mystore\\migrations\\20260427183158_addpubliserfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3612EF85-5C8E-4D5A-A897-FF5072ECC53F}|MyStore.csproj|solutionrelative:migrations\\20260427183158_addpubliserfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 102,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ForgotPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-03T12:54:22.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ForgotPasswordConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPasswordConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T12:54:21.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "20260427183741_addpublisherfieldtviewmodel.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260427183741_addpublisherfieldtviewmodel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260427183741_addpublisherfieldtviewmodel.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260427183741_addpublisherfieldtviewmodel.cs",
+              "RelativeToolTip": "Migrations\\20260427183741_addpublisherfieldtviewmodel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:37:42.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "20260427183158_addpubliserfield.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260427183158_addpubliserfield.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260427183158_addpubliserfield.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260427183158_addpubliserfield.cs",
+              "RelativeToolTip": "Migrations\\20260427183158_addpubliserfield.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:31:59.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T15:18:21.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ResendEmailConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResendEmailConfirmation.cshtml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:40:55.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ForgotPassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAUwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:29:57.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:11:52.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ResetPasswordConfirmation.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPasswordConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:40:28.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-27T08:40:25.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ChangePassword.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAADwv4AAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T08:32:58.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Email.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T17:15:27.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SendEmail.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\Telegram Desktop\\SendEmail.cshtml.cs",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\Telegram Desktop\\SendEmail.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwA0AAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T15:14:55.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SendEmail.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\SendEmail.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users\\SendEmail.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\SendEmail.cshtml.cs",
+              "RelativeToolTip": "Pages\\Users\\SendEmail.cshtml.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAADwv0YAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:44:14.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SendEmail.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\SendEmail.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\SendEmail.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\SendEmail.cshtml",
+              "RelativeToolTip": "Pages\\Users\\SendEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-26T11:41:21.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Models\\DbInitializer.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "Models\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:51:47.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "_CRUDLayout.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_CRUDLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_CRUDLayout.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_CRUDLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_CRUDLayout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwI0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T17:42:24.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Users\\Index.cshtml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T15:13:43.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Users\\Index.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Users\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Users\\Index.cshtml",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-25T15:13:33.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "SmtpOptions.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Options\\SmtpOptions.cs",
+              "RelativeDocumentMoniker": "Options\\SmtpOptions.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Options\\SmtpOptions.cs",
+              "RelativeToolTip": "Options\\SmtpOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T12:00:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Services\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Services\\EmailSender.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Services\\EmailSender.cs",
+              "RelativeToolTip": "Services\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T11:41:34.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T13:46:23.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "RegisterConfirmation.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:46:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-24T11:09:40.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "style.css.map",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\wwwroot\\assets\\css\\maps\\vertical-light-layout\\style.css.map",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\css\\maps\\vertical-light-layout\\style.css.map",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\wwwroot\\assets\\css\\maps\\vertical-light-layout\\style.css.map",
+              "RelativeToolTip": "wwwroot\\assets\\css\\maps\\vertical-light-layout\\style.css.map",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-24T11:08:19.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\wwwroot\\assets\\css\\vertical-light-layout\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\css\\vertical-light-layout\\style.css",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\wwwroot\\assets\\css\\vertical-light-layout\\style.css",
+              "RelativeToolTip": "wwwroot\\assets\\css\\vertical-light-layout\\style.css",
+              "ViewState": "AgIAAIEMAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-24T11:08:00.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "20260423131438_addprofilephotofild.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260423131438_addprofilephotofild.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260423131438_addprofilephotofild.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260423131438_addprofilephotofild.cs",
+              "RelativeToolTip": "Migrations\\20260423131438_addprofilephotofild.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:14:39.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAIBJwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T07:09:30.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Index.cshtml.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAswGYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T07:09:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T06:39:44.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Email.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\Email.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-23T06:34:06.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ManageNavPages.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ManageNavPages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T06:29:34.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAUwIAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:50:15.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "20260422124952_neww.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422124952_neww.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260422124952_neww.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422124952_neww.cs",
+              "RelativeToolTip": "Migrations\\20260422124952_neww.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:49:52.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "20260422124023_adddefalt.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422124023_adddefalt.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260422124023_adddefalt.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422124023_adddefalt.cs",
+              "RelativeToolTip": "Migrations\\20260422124023_adddefalt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:40:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAIBJwHIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:23:03.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "20260422122154_addidentity.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422122154_addidentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260422122154_addidentity.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422122154_addidentity.cs",
+              "RelativeToolTip": "Migrations\\20260422122154_addidentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T12:21:55.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:18:06.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "PersonalData.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\PersonalData.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:16:28.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAIBJwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:16:20.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:16:17.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "_ManageNav.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Manage\\_ManageNav.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:16:03.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:14:06.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:14:00.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:13:53.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:13:47.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ConfirmEmail.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ConfirmEmail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T09:13:40.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductImages.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\ProductImages.cs",
+              "RelativeDocumentMoniker": "Models\\ProductImages.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\ProductImages.cs",
+              "RelativeToolTip": "Models\\ProductImages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:35:31.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "20260422053029_addproductsdata.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422053029_addproductsdata.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260422053029_addproductsdata.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422053029_addproductsdata.cs",
+              "RelativeToolTip": "Migrations\\20260422053029_addproductsdata.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:30:29.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "20260422052907_newupd.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422052907_newupd.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260422052907_newupd.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260422052907_newupd.cs",
+              "RelativeToolTip": "Migrations\\20260422052907_newupd.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T05:29:08.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20260421173917_newmig.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260421173917_newmig.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260421173917_newmig.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260421173917_newmig.cs",
+              "RelativeToolTip": "Migrations\\20260421173917_newmig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:39:17.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20260421171829_changeTableName.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260421171829_changeTableName.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260421171829_changeTableName.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260421171829_changeTableName.cs",
+              "RelativeToolTip": "Migrations\\20260421171829_changeTableName.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:18:30.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-19T11:54:25.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-04-19T11:14:25.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T17:38:10.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "sign-in.html",
+              "DocumentMoniker": "C:\\Users\\HP\\Downloads\\studiova-bootstrap-template-v1\\src\\html\\sign-in.html",
+              "ToolTip": "C:\\Users\\HP\\Downloads\\studiova-bootstrap-template-v1\\src\\html\\sign-in.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-03T16:21:58.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Models\\AppUser.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\AppUser.cs",
+              "RelativeToolTip": "Models\\AppUser.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA6wA8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T15:41:43.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "QuerySortExtention.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Extention\\QuerySortExtention.cs",
+              "RelativeDocumentMoniker": "Extention\\QuerySortExtention.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Extention\\QuerySortExtention.cs",
+              "RelativeToolTip": "Extention\\QuerySortExtention.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:29:46.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Extention\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "Extention\\PaginatedList.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Extention\\PaginatedList.cs",
+              "RelativeToolTip": "Extention\\PaginatedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T14:00:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Products (2).sql",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\SQL\\Products (2).sql",
+              "RelativeDocumentMoniker": "Data\\SQL\\Products (2).sql",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\SQL\\Products (2).sql",
+              "RelativeToolTip": "Data\\SQL\\Products (2).sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-03-19T00:40:32.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_NLayout.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_NLayout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_NLayout.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_NLayout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_NLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T18:33:43.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAIBJwCMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T15:14:35.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "CategoryProducts.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\CategoryProducts.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\CategoryProducts.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\CategoryProducts.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\CategoryProducts.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T13:36:48.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "CategoryProducts.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\CategoryProducts.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\CategoryProducts.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\CategoryProducts.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\CategoryProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-08T13:26:22.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T22:53:53.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Delete.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Delete.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T22:52:04.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T22:21:27.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T22:20:18.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:41:47.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Create.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T12:38:42.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T12:01:50.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Categories\\Index.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-07T11:57:53.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "Images.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Images.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Images.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Images.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Images.cshtml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAACBjwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T20:25:28.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Images.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Images.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Images.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Images.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Images.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T20:22:38.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Delete.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Delete.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIBJwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T18:54:11.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T18:52:38.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Create.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T18:14:56.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Edit.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Edit.cshtml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAABQwFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T17:49:52.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-06T17:43:40.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\ModelsView\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "ModelsView\\ProductViewModel.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\ModelsView\\ProductViewModel.cs",
+              "RelativeToolTip": "ModelsView\\ProductViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T15:23:18.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Create.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Create.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Create.cshtml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv0MAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T14:27:55.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UploudImageService.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Services\\UploudImageService.cs",
+              "RelativeDocumentMoniker": "Services\\UploudImageService.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Services\\UploudImageService.cs",
+              "RelativeToolTip": "Services\\UploudImageService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T14:25:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "IUploudService.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Services\\IUploudService.cs",
+              "RelativeDocumentMoniker": "Services\\IUploudService.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Services\\IUploudService.cs",
+              "RelativeToolTip": "Services\\IUploudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T14:25:40.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAmwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T12:22:43.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAADYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T12:01:52.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:44:40.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "20260205213432_edit.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260205213432_edit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260205213432_edit.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260205213432_edit.cs",
+              "RelativeToolTip": "Migrations\\20260205213432_edit.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:34:33.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "20260205213311_e.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260205213311_e.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260205213311_e.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260205213311_e.cs",
+              "RelativeToolTip": "Migrations\\20260205213311_e.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:33:11.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAswFsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T19:58:36.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T19:32:50.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Pages\\Products\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-05T19:29:47.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20260129173046_Init.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129173046_Init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260129173046_Init.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129173046_Init.cs",
+              "RelativeToolTip": "Migrations\\20260129173046_Init.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:30:46.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20260129172622_update-error.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129172622_update-error.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260129172622_update-error.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129172622_update-error.cs",
+              "RelativeToolTip": "Migrations\\20260129172622_update-error.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T17:26:22.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20260129165239_edit-cat-table.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129165239_edit-cat-table.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260129165239_edit-cat-table.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Migrations\\20260129165239_edit-cat-table.cs",
+              "RelativeToolTip": "Migrations\\20260129165239_edit-cat-table.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:52:39.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\configuration\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\configuration\\CategoryConfiguration.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\configuration\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Data\\configuration\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBZwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T15:42:03.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\configuration\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Data\\configuration\\ProductConfiguration.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\configuration\\ProductConfiguration.cs",
+              "RelativeToolTip": "Data\\configuration\\ProductConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIBZwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T20:58:52.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAtwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T20:45:55.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-25T19:06:48.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:02:23.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA0wBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T16:00:02.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "MyStore.csproj",
+              "DocumentMoniker": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\MyStore.csproj",
+              "RelativeDocumentMoniker": "MyStore.csproj",
+              "ToolTip": "D:\\Moayad Al-Madhoun\\GTC\\Secound Year\\FS\\web development\\MyStore\\MyStore.csproj",
+              "RelativeToolTip": "MyStore.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-23T15:57:47.839Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1858,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
