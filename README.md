@@ -164,7 +164,7 @@ MyStore
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YourUserName/MyStore.git
+git clone https://github.com/MoayadMadhoun/E-Commerce-Web-Project.git
 ```
 
 ---
@@ -227,19 +227,7 @@ Example Policies:
 
 ---
 
-# 📸 Screenshots
 
-Add screenshots here.
-
-Example:
-
-```
-/screenshots/home.png
-/screenshots/products.png
-/screenshots/categories.png
-```
-
----
 
 # 📚 Main Functionalities
 
